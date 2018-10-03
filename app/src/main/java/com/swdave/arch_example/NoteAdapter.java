@@ -50,6 +50,8 @@ public class NoteAdapter extends RecyclerView.Adapter<NoteAdapter.NoteHolder> {
     // get data from live data
     public void setNotes (List<Note> notes){
         this.notes = notes;
+
+        // will change later
         notifyDataSetChanged();
     }
 
