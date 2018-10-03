@@ -4,4 +4,4 @@
 
 Project is a work in progress..  
   
-Currently Running, but needs to finish CRUD.
+Currently Running, but needs to finish CRUD and UI.
