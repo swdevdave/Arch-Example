@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Arch_Example</string>
+    <string name="delete_all_notes">Delete All Notes</string>
 </resources>
