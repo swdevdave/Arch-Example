@@ -1,7 +1,5 @@
-# Arch_Example
+# Android Archtechure Tools
 
-## Android Archtechure tools  
+## Basic app using Android Archecture tools
 
-Project is a work in progress..  
-  
-Currently Running, but needs to finish CRUD and UI.
+Currently the app is still in development. Will update when app is finished.
