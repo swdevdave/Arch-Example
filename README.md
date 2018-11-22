@@ -1,20 +1,21 @@
 # Android Archtechure Tools
 
-## Basic app using Android Archecture tools
+## Basic app using Android Archecture Components
 
 ## Android Knowledge
-- Android Archetecture Components 
+- Android Archecture Components 
   - MVVM
 - RecyclerView
   - ListAdapter(new feature)
 - Saved State
 
 ## User Experience
-- Stores tasks with a sortable priority. 
-- Swipe left or right to delete tasks. 
+- Stores tasks with priority
+- Sorts by priority
+- Swipe left or right to delete tasks
 - Click on a task to edit
 - FAB to add new task
-- Stores locally in a Room Db.
+- Stores locally in a Room Db
 
 # Screenshot
 <img src="https://github.com/swdevdave/Arch_Example/blob/master/SS1.png" height="400"/>&nbsp;&nbsp;&nbsp;
