@@ -1,4 +1,4 @@
-# Android Archtechure Tools
+# Android Archtechure Tools demo
 
 ## Basic app using Android Archecture Components
 
